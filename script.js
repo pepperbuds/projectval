@@ -54,10 +54,10 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
+    "pleasee???",
+    "Say yessss??",
     "Are you positive?",
-    "Pookie please...",
+    "BABE please...",
     "Just think about it!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
